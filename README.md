@@ -5,7 +5,7 @@ Organization
 
 This repository contains code for our SPAA paper "Theoretically Efficient
 Parallel Graph Algorithms Can Be Fast and Scalable" (SPAA'18). It includes
-implementations of the following parallel graph algorithms:
+implementations of the following parallel graph algorithms: 
 
 **Connectivity Problems**
 * Low-Diameter Decomposition
